@@ -8,7 +8,7 @@ This coming February he would have been living with us for nine years. In April 
 
 But today we had to let him go.
 
-It has been tough during these last few months watching our little mate struggle. To see him go from a lively, mischievous little bloke who loved to run around our back yard with abandon, to a dog who cautiously negotiated his way around the house, constantly bumping into furniture, was heart-breaking. That was the practical reality of him doing his best to deal with a condition known to vets as hepatic encephalopathy, one that affects the brain due to liver disease. In Rusty's case, his liver appears to have been damaged by years of medication for epilipsy.
+It has been tough during these last few months watching our little mate struggle. To see him go from a lively, mischievous little bloke who loved to run around our back yard with abandon, to a dog who cautiously negotiated his way around the house, constantly bumping into furniture, was heart-breaking. That was the practical reality of him doing his best to deal with a condition known to vets as hepatic encephalopathy, one that affects the brain due to liver disease. In Rusty's case, his liver appeared to have been damaged by years of medication for epilipsy.
 
 The condition left him confused and practically blind.
 
