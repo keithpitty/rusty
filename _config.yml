@@ -1,3 +1,23 @@
-name: A Tribute to Rusty
+name: Remembering Rusty
+
+logo: site-logo-rusty.jpg
+
+owner:
+
+  name:   Keith Pitty
+
+  avatar: keith.jpg
+
+links:
+  - title: About
+    url: /about
+  - title: Articles
+    url: /articles
+
+timezone: Australia/Sydney
+
 markdown: redcarpet
+
 pygments: true
+
+# destination: /Users/keithpitty/Dropbox/Public/sites/rusty
