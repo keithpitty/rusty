@@ -18,6 +18,4 @@ timezone: Australia/Sydney
 
 markdown: redcarpet
 
-pygments: true
-
 # destination: /Users/keithpitty/Dropbox/Public/sites/rusty
