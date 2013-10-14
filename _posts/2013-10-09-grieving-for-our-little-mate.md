@@ -16,7 +16,7 @@ It left us clutching to hope. We held onto the hope that the vet's best case pro
 
 However, the weeks passed and Rusty's condition stayed much the same.
 
-Then a few days ago when he took a turn for the worse. He had developed some obstructions that were preventing him from passing urine freely. A small operation helped to relieve his condition but a subsequent major operation would have been required to fully clear the obstructions. Given that this latest illness was most likely a result of the liver disease, and that the ongoing prognosis was not good, we were faced with following the vet's advice that it was time to say goodbye.
+Then a few days ago he took a turn for the worse. He had developed some obstructions that were preventing him from passing urine freely. A small operation helped to relieve his condition but a subsequent major operation would have been required to fully clear the obstructions. Given that this latest illness was most likely the result of his liver disease, and that the ongoing prognosis was not good, we were faced with following the vet's advice that it was time to say goodbye.
 
 To say that Rusty has been a much loved part of our family is an understatement. It was an agonising decision but one which we knew we must make for the good of our little mate. We couldn't put him through any more suffering. It was tempting for me to think that the second operation would then give Rusty the chance for his liver to improve but, when I reflected, this was a forlorn hope.
 
