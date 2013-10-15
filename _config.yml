@@ -17,3 +17,5 @@ links:
 timezone: Australia/Sydney
 
 markdown: redcarpet
+
+exclude: ["vendor"]
