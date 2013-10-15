@@ -4,7 +4,7 @@ title: Work day routine
 date: 2013-10-14
 ---
 
-The fact that I have usually worked from home for the last six years meant that Rusty and I shared a lot of time whilst I was working.
+The fact that I have usually worked from home for the last six years has meant that Rusty and I have shared a lot time together when we only had each other for company.
 
 For the better part of the morning, Rusty would adopt a pose that endeared him to many a visitor. He would take advantage of the northerly aspect of our bedrooms and position himself between the blinds and the windows. He could stand there for hours soaking up the sun.
 
