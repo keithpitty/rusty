@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Remembering Rusty
+title: About
 tags: []
 modified: 2013-10-14
 ---
